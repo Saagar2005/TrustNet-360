@@ -72,15 +72,15 @@ Navigate to: **http://localhost:8000**
 ┌─────────────────────────────────────────────────────────┐
 │                  TrustNet 360° System                   │
 ├─────────────────────────────────────────────────────────┤
-│  🧬 Bio-Metric Genesis     │  📊 Continuous Trust      │
-│  ├─ DBI Challenge Engine   │  ├─ Behavioral Analytics  │
-│  ├─ rPPG Heart Detection   │  ├─ Trust Score Engine    │
-│  ├─ Micro-Expression AI    │  ├─ Risk Assessment       │
-│  └─ Environment Validator  │  └─ Adaptive Responses    │
+│  Bio-Metric Genesis        │  Continuous Trust          |
+│  ├─ DBI Challenge Engine   │  ├─ Behavioral Analytics   │
+│  ├─ rPPG Heart Detection   │  ├─ Trust Score Engine     │
+│  ├─ Micro-Expression AI    │  ├─ Risk Assessment        │
+│  └─ Environment Validator  │  └─ Adaptive Responses     │
 ├─────────────────────────────────────────────────────────┤
-│              🚀 FastAPI Backend + Live Demo             │
-│  ├─ RESTful APIs          ├─ WebSocket Live Updates    │
-│  ├─ Interactive Frontend  └─ Real-time Processing      │
+│              FastAPI Backend + Live Demo                │
+│  ├─ RESTful APIs          ├─ WebSocket Live Updates     │
+│  ├─ Interactive Frontend  └─ Real-time Processing       │
 └─────────────────────────────────────────────────────────┘
 ```
 
@@ -91,7 +91,7 @@ Navigate to: **http://localhost:8000**
 - **Security:** Cryptography, behavioral biometrics
 - **Frontend:** HTML5, JavaScript, WebRTC, responsive design
 
-## 🎯 Demo Walkthrough
+## 🎯 Walkthrough
 
 ### Scenario 1: Successful Verification
 1. **Start Demo** → Camera activates
