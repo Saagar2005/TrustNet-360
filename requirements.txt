@@ -1,0 +1,32 @@
+# TrustNet 360° - Bank of Baroda Hackathon 2025
+# Requirements File
+
+# Core Web Framework
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+python-multipart==0.0.6
+websockets==12.0
+aiofiles==23.2.0
+
+# Computer Vision & ML
+opencv-python==4.8.1.78
+numpy==1.24.3
+scipy==1.11.4
+scikit-learn==1.3.2
+Pillow==10.1.0
+
+# Audio Processing
+librosa==0.10.1
+
+# Security & Crypto
+cryptography==41.0.7
+passlib[bcrypt]==1.7.4
+bcrypt==4.1.2
+
+# Data Processing
+pandas==2.1.4
+asyncio-mqtt==0.13.0
+
+# Development Tools
+python-dotenv==1.0.0
+structlog==23.2.0
